@@ -13,7 +13,7 @@
 
 - 📫 How to reach me → **v.inkovskiy@icloud.com**
 
-- 📄 Know about my experiences → [https://github.com/xxArchitect?tab=repositories](https://github.com/xxArchitect?tab=repositories)
+- 📄 Know about my experiences → [https://www.dropbox.com/s/nxrtwp8mubniof9/Vasily_Inkovskiy_Resume.pdf?dl=0](https://www.dropbox.com/s/nxrtwp8mubniof9/Vasily_Inkovskiy_Resume.pdf?dl=0)
 
 - ⚡ Fun fact → **I have an extensive knowledge of microbes 🦠**
 

@@ -11,7 +11,7 @@
 
 - 💬 Ask me about → **C/C++, Node.js, Linux**
 
-- 📫 How to reach me → [**Email**](mailto:v.inkovskiy@icloud.com)
+- 📫 How to reach me → [Email](mailto:v.inkovskiy@icloud.com)
 
 - 📄 Know about my experiences → [Resume](https://www.dropbox.com/s/nxrtwp8mubniof9/Vasily_Inkovskiy_Resume.pdf?dl=0)
 

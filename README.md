@@ -7,20 +7,20 @@
 
 - 👯 I’m looking to collaborate on → **interesting web-projects**
 
-- 👨‍💻 All of my projects are available at → [https://github.com/xxArchitect?tab=repositories](https://github.com/xxArchitect?tab=repositories)
+- 👨‍💻 All of my projects are available at → [GitHubs Repos](https://github.com/xxArchitect?tab=repositories)
 
 - 💬 Ask me about → **C/C++, Node.js, Linux**
 
-- 📫 How to reach me → **v.inkovskiy@icloud.com**
+- 📫 How to reach me → [**Email**](mailto:v.inkovskiy@icloud.com)
 
-- 📄 Know about my experiences → [https://www.dropbox.com/s/nxrtwp8mubniof9/Vasily_Inkovskiy_Resume.pdf?dl=0](https://www.dropbox.com/s/nxrtwp8mubniof9/Vasily_Inkovskiy_Resume.pdf?dl=0)
+- 📄 Know about my experiences → [Resume](https://www.dropbox.com/s/nxrtwp8mubniof9/Vasily_Inkovskiy_Resume.pdf?dl=0)
 
 - ⚡ Fun fact → **I have an extensive knowledge of microbes 🦠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vasily-inkovskiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasily-inkovskiy" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@Vasily#1228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vasily#1228" height="30" width="40" /></a>
+<a href="https://discord.gg/hC4aqPPu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vasily#1228" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

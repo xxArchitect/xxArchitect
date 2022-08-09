@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on → [Financial Monitor App](https://github.com/victorsandru/carletonMentorProgram2022)
 
-- 🌱 I’m currently learning → **React, Python, PostgreSQL, JavaScript**
+- 🌱 I’m currently learning → **Python**
 
 - 👯 I’m looking to collaborate on → **interesting web-projects**
 
